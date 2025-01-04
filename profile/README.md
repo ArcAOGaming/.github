@@ -30,6 +30,13 @@ First-of-its-kind decentralized VRF protocol delivering:
 - Verifiable, transparent randomness generation
 - Native utility token for random value creation and incentivization
 
+#### [ArcAO Templates](https://github.com/orgs/ArcAOGaming/repositories?q=template%3Atrue+archived%3Afalse)
+Jump-start your game development with our ready-to-use templates:
+- Pre-configured development environments
+- Best practices and patterns built-in
+- Quick setup for various game genres
+- Accelerate your path from concept to playable game
+
 ## Technical Framework
 
 ### Development Stack
